@@ -15,8 +15,8 @@ inLanguage: fr
 app_links: []
 isBasedOnUrl: 'https://branded.me/etiennedupuis'
 title: Étienne Dupuis | Développeur de Marques
-datePublished: '2016-08-17T16:03:24.125Z'
-dateModified: '2016-08-17T16:02:50.725Z'
+datePublished: '2016-08-17T16:03:32.510Z'
+dateModified: '2016-08-17T15:49:22.633Z'
 via: {}
 starred: false
 sourcePath: _posts/2016-08-17-etienne-dupuis-or-developpeur-de-marques.md
